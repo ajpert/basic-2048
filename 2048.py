@@ -3,7 +3,9 @@ import pygame
 import random
 
 
-board_size = 4
+board_size = 10
+
+
 
 score = 0
 
